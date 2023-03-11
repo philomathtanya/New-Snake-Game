@@ -1,1 +1,1 @@
-# New-Snake-Game
+# Snake and its food
