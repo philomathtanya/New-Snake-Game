@@ -3,6 +3,7 @@
 // pen.fillStyle = 'red';
 // // pen.fillRect(100, 100, 50, 60);
 // //x,y,width,height
+
 // let init_x = 50;
 // let init_y = 50;
 
